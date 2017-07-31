@@ -10,8 +10,9 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
   ID: 1 ~ 30
 
 ## activity  
-  Six activity type
-  LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
+  Six activity type  
+  
+    LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
   
 ## other features
   mean and standard deviation of each measurement
