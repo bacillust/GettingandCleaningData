@@ -5,15 +5,15 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 # Feature Explanation
 
-Subject_ID
+## Subject_ID
   Subject IDs who were participated in this experiment
   ID: 1 ~ 30
 
-activity
+## activity  
   Six activity type
   LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
   
-other features
+## other features
   mean and standard deviation of each measurement
     tBodyAcc-XYZ
     tGravityAcc-XYZ
