@@ -1,8 +1,6 @@
 library(dplyr)
 
 ### 1. Merges the training and the test sets to create one data set.
-setwd("C:/Users/SKTelecom/Documents/MOOC/Data Science/Getting and Cleaning/UCI HAR Dataset/")
-
 ### reading raw data
 train_x <- read.table("./train/X_train.txt", header=F)
 train_y <- read.table("./train/y_train.txt", header=F)
