@@ -15,7 +15,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
   
 ## other features
   mean and standard deviation of each measurement
-    tBodyAcc-XYZ
+  
+    tBodyAcc-XYZ  
     tGravityAcc-XYZ
     tBodyAccJerk-XYZ
     tBodyGyro-XYZ
